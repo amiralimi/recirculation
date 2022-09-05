@@ -1,0 +1,4 @@
+numpy==1.22.4
+matplotlib==3.3.4
+# I am running the codes on M1 mac so I installed tensorflow-macos.
+tensorflow-macos==2.9.2
